@@ -38,5 +38,13 @@
 			<li>Watch Gold Cup</li>
 			<li>Study some more</li>
 		</ol>
+
+		<h2>I Love Soccer</h2>
+		<img src="images/soccer.jpg" alt="soccer ball"/>
+
+
+
+
+
 	</body>
 </html>
