@@ -56,11 +56,11 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
-										<li><a href="#">Action</a></li>
-										<li><a href="#">Another action</a></li>
-										<li><a href="#">Something else here</a></li>
-										<li role="separator" class="divider"></li>
-										<li><a href="#">Separated link</a></li>
+								<li><a href="#">Action</a></li>
+								<li><a href="#">Another action</a></li>
+								<li><a href="#">Something else here</a></li>
+								<li role="separator" class="divider"></li>
+								<li><a href="#">Separated link</a></li>
 							</ul>
 						</div><!-- /.navbar-collapse -->
 					</div><!-- /.container-fluid -->
@@ -156,6 +156,56 @@
 							ultrices arcu ac, dapibus lorem. Aliquam efficitur vulputate justo et varius. Nullam luctus varius
 							nisl. Proin efficitur diam eu posuere facilisis. Vestibulum ut turpis eget ex semper consequat in
 							non lacus.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<!-- begin form -->
+						<form>
+							<div class="form-group">
+								<label for="txtName">Name</label>
+								<input id="txtName" name="txtName" class="form-control" type="text" placeholder="Name">
+							</div>
+							<div class="form-group">
+								<label for="emailEmail">Email</label>
+								<input id="emailEmail" name="emailEmail" class="form-control" type="email" placeholder="Email">
+							</div>
+							<div class="form-group">
+								<label for="txtSubject">Subject</label>
+								<input id="txtSubject" name="txtSubject" class="form-control" type="text" placeholder="Subject">
+							</div>
+							<div class="form-group">
+								<textarea class="form-control" cols="30" rows="10"></textarea>
+							</div>
+							<button class="btn btn-info" type="submit">Submit</button>
+							<button class="btn btn-default" type="reset">Reset</button>
+						</form>
+					</div>
+					<div class="col-md-7 col-md-offset-1">
+						<h2>More Info</h2>
+						<p>Pellentesque hendrerit eu odio in consectetur. Nullam ante leo, congue eget sapien vel, venenatis
+							dignissim leo. Mauris nisi est, maximus ac convallis ut, ornare quis lorem. Phasellus aliquam, eros
+							vitae porttitor accumsan, augue libero finibus diam, quis tempor libero purus vel orci. Suspendisse
+							eget tortor dapibus, tincidunt lorem eu, mollis odio. Fusce at nisi erat. Proin congue convallis
+							mi, quis faucibus risus vestibulum sed. Proin id tempor nibh. Praesent dapibus efficitur mi. Donec
+							volutpat mauris quis lectus mattis, laoreet congue lacus vestibulum. Donec sit amet metus semper,
+							ultrices arcu ac, dapibus lorem. Aliquam efficitur vulputate justo et varius. Nullam luctus varius
+							nisl. Proin efficitur diam eu posuere facilisis. Vestibulum ut turpis eget ex semper consequat in
+							non lacus.</p>
+						<p>Pellentesque hendrerit eu odio in consectetur. Nullam ante leo, congue eget sapien vel, venenatis
+							dignissim leo. Mauris nisi est, maximus ac convallis ut, ornare quis lorem. Phasellus aliquam, eros
+							vitae porttitor accumsan, augue libero finibus diam, quis tempor libero purus vel orci. Suspendisse
+							eget tortor dapibus, tincidunt lorem eu, mollis odio. Fusce at nisi erat. Proin congue convallis
+							mi, quis faucibus risus vestibulum sed. Proin id tempor nibh. </p>
+						<p>Donec sit amet metus semper, ultrices arcu ac, dapibus lorem. Aliquam efficitur vulputate justo et
+							varius. Nullam luctus varius nisl. Proin efficitur diam eu posuere facilisis. Vestibulum ut turpis
+							eget ex semper consequat in non lacus. Aliquam nec ipsum mauris. Phasellus ultricies ante arcu, ut
+							mollis erat bibendum eget. Sed id sodales urna, convallis sagittis libero. Vestibulum ornare purus
+							eget nulla porttitor fringilla. Morbi scelerisque at nunc vitae ultrices. Maecenas feugiat velit
+							arcu, sit amet congue mi tempor nec. Vivamus leo dui, aliquam ut molestie nec, semper id dolor. In
+							tincidunt, orci at laoreet pharetra, metus quam ultrices nunc, eget tempor metus augue vel tortor.
+							Vivamus orci odio, fermentum in quam vitae, venenatis blandit urna. Vestibulum gravida dignissim
+							quam, vel cursus ligula maximus ut. Vestibulum nec vestibulum orci, aliquet ullamcorper nisi.</p>
 					</div>
 				</div>
 			</div> <!-- /.container -->
