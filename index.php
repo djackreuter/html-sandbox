@@ -175,7 +175,8 @@
 								<input id="txtSubject" name="txtSubject" class="form-control" type="text" placeholder="Subject">
 							</div>
 							<div class="form-group">
-								<textarea class="form-control" cols="30" rows="10"></textarea>
+								<label for="txtMessage">Message</label>
+								<textarea id="txtMessage" name="txtMessage" class="form-control" cols="30" rows="10"></textarea>
 							</div>
 							<button class="btn btn-info" type="submit">Submit</button>
 							<button class="btn btn-default" type="reset">Reset</button>
